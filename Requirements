@@ -1,0 +1,14 @@
+This is my project where all the learners will follow the below steps
+
+1.  	Fork my project
+2.  	Clone to local
+3.  	Modify the file by adding your name in the last line
+4.  	Once done - add >> commit >> push to remote
+5.  	Once the push is successful create a pull request from github
+6.  	I will accept the pull request and we will see how the process goes.
+7.  	Now you will create a new branch in local and push the same to remote - add a file with some text
+8.  	Then create a pull request and I will decide to accept or reject.
+9.  	Create another branch and name it as – branch2
+10.   Now modify the branch2 and commit and push to remote again
+11.   Now on local go to branch2 and rebase the branch1 to branch2 and then push it again.
+12.   Once done, raise a pull request again and I will accept or reject the same.
